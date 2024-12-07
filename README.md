@@ -2,5 +2,4 @@
 
 Asteroids Game
 
-
-https://cs.trinity.edu/~wwelden/Buildname/
+https://wwelden.itch.io/asteroids
