@@ -1,4 +1,4 @@
-# Welden-Games
+# Welden-Asteroids
 
 Asteroids Game
 
